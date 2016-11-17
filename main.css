@@ -49,7 +49,12 @@ h6 {
   color: #00FFAA;
 }
 
-.jezyki p li{
+.jezyki p {
+text-align: center;
+font-size: 1.5em;
+}
+
+.jezyki ul {
 text-align: center;
 font-size: 1.5em;
 }

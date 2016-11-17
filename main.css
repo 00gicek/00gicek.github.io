@@ -3,11 +3,14 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
-	background: #deefff;
-background: -moz-linear-gradient(top,  #deefff 0%, #98bede 100%);
-background: -webkit-linear-gradient(top,  #deefff 0%,#98bede 100%);
-background: linear-gradient(to bottom,  #deefff 0%,#98bede 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#deefff', endColorstr='#98bede',GradientType=0 );
+background: #d4e4ef;
+background: -moz-linear-gradient(left, #d4e4ef 0%, #86aecc 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, #d4e4ef), color-stop(100%, #86aecc));
+background: -webkit-linear-gradient(left, #d4e4ef 0%, #86aecc 100%);
+background: -o-linear-gradient(left, #d4e4ef 0%, #86aecc 100%);
+background: -ms-linear-gradient(left, #d4e4ef 0%, #86aecc 100%);
+background: linear-gradient(to right, #d4e4ef 0%, #86aecc 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d4e4ef', endColorstr='#86aecc', GradientType=1 );
 
 
 }

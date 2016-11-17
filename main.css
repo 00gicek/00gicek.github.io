@@ -50,13 +50,17 @@ h6 {
 }
 
 .jezyki p {
-text-align: center;
 font-size: 1.5em;
+display: block;
+text-align: center;
+position: relative;
 }
 
 .jezyki ul {
+font-size: 1.25em;
+display: block;
 text-align: center;
-font-size: 1.5em;
+position: relative;	
 }
 
 .notecard {

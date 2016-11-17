@@ -26,13 +26,10 @@ h2 {
 
 p {
   font-size: 2rem;
-
+  color: #00FFAA;
 }
 
 .hero a {
-	    					 float: left;
-     					 position: relative;
-    						  left: 50%;
 	text-align: center;
 	color: #00FFAA;
 	font-size: 1.25em;

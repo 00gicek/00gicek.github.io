@@ -30,6 +30,7 @@ p {
 }
 
 .hero a {
+	margin: auto;
 	text-align: center;
 	color: #00FFAA;
 	font-size: 1.25em;

@@ -30,7 +30,9 @@ p {
 }
 
 .hero a {
-	display: inline-block;
+	    					 float: left;
+     					 position: relative;
+    						  left: 50%;
 	text-align: center;
 	color: #00FFAA;
 	font-size: 1.25em;
